@@ -2,6 +2,7 @@
   "expo": {
     "name": "biografia",
     "slug": "biografia",
+    "owner": "lucassoares-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +38,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "29ba1ad6-62f0-43eb-8167-e6175c90a2e0"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/29ba1ad6-62f0-43eb-8167-e6175c90a2e0"
     }
   }
 }
